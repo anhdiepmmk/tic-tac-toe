@@ -35,7 +35,7 @@ public class Main {
         jPanel.setLayout(boxLayout);
 
 
-        board.setPreferredSize(new Dimension(300, 300));
+        board.setPreferredSize(new Dimension(600, 600));
 
         FlowLayout flowLayout = new FlowLayout(FlowLayout.CENTER, 0, 0);
 
